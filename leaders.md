@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Smaran Chand](mailto:smaran.chand@owasp.org)
+* [Kailash Bohara](mailto:kailash.bohara@owasp.org)
