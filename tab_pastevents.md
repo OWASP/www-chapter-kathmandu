@@ -7,4 +7,9 @@ order: 2
 tags: Kathmandu
 ---
 
-### 2022
+## Previous Events
+
+| Name | Date | Location | Attendance |
+| ---- | ---- | -------- | ---------- |
+| **[Event-1](https://appsecil.org/](https://owasp.org/www-chapter-kathmandu)**   | Jun 27-28, 2022 | **Kathmandu** | **nearly 20 attendees\!** |
+| 
