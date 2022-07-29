@@ -3,7 +3,9 @@
 layout: col-sidebar
 title: OWASP Kathmandu
 tags: OWASP Kathmandu
+level: 0
 region: Asia
+country: Nepal
 meetup-group:
 
 ---
