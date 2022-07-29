@@ -3,7 +3,7 @@ title: Sponsors
 layout:  col-sidebar
 tab: true
 order: 1
-tags: sponsor-tag
+tags: Kathmandu
 ---
 
 ## Sponsors
