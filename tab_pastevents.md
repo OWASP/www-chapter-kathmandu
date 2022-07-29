@@ -5,6 +5,9 @@ layout: col-sidebar
 tab: true
 order: 2
 tags: Kathmandu
+output:
+  html_document:
+    css: /assets/style.css
 ---
 
 ## Previous Events
