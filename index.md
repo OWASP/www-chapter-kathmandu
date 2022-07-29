@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kathmandu
-tags: OWASP kathmandu
+tags: OWASP Kathmandu
 region: Asia
 meetup-group:
 
