@@ -1,0 +1,230 @@
+.conf table{
+    font-family: Helvetica;
+    font-size: 5pt;
+  }
+
+
+  .main {
+    min-height: 20em;
+    line-height: 1.25em;
+  
+    section {
+      padding: 2em 4em;
+  
+      div {
+        background: #fff;
+        margin-bottom: 10px;
+        
+        hr {
+          border-width: 2px;
+          border-color:#000;
+        }
+  
+      }
+  
+      &.inverse {
+        background-color: $medium;
+        color: #fff;
+  
+        button.dark {
+          background: #fff;
+          color: $medium;
+        }
+      }
+  
+      &:first-of-type {
+        border-top: 2.5em solid $medium;
+      }
+  
+      &.img {
+        color: #fff;
+        border-top: none;
+        background-size: cover;
+        background-position: top left;
+  
+        padding: 4.5em 4em;
+        width: 100%;
+        height: 100%;
+        //background: rgba(0,92,100,0.5);
+        background-position: bottom right, bottom right, top left;
+        background-repeat: no-repeat, repeat-y, no-repeat;
+        background-size: 33% auto, cover, cover;
+        background-blend-mode: normal, multiply, normal;
+      }
+    }
+  
+    ul {
+      list-style: disc;
+      margin: 0.5em 1.5em;
+    }
+  
+    ul.team-list {
+      display: flex;
+      flex-wrap: wrap;
+      list-style: none;
+      margin: 0;
+      padding: 1em 0em;
+      justify-content: flex-start;
+  
+      > li {
+        max-width: 50%;
+        width: 200px;
+        text-align: center;
+        padding-bottom: 1em;
+  
+        img {
+          width: 150px;
+          height: 150px;
+          border-radius: 50%;
+        }
+  
+        span {
+          display: block;
+        }
+      }
+    }
+  
+  }
+  
+  footer {
+  
+    background: $medium;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+  }
+  
+  @media (max-width: 500px) {
+    body {
+      font-size: 90%;
+    }
+  
+    header {
+      .top {
+        height: 5em;
+        .logo {
+          width: 10em;
+          height: 5em;
+        }
+      }
+    }
+    #counter {
+      display: none;
+    }
+    .main {
+      section {
+        padding: 1em 1em;
+  
+        &.img {
+          padding: 2.5em 2em;
+        }
+      }
+    }
+  }
+  
+  .sponsor-tier {
+      background-color: $medium !important;
+      text-align: center;
+      padding-bottom: 40px;
+  }
+  
+  .sponsor {
+      margin: 3px;
+      display: inline-block;
+      overflow: hidden;
+      vertical-align: middle;
+      background-color: whitesmoke;
+    
+      img {
+        max-width: 50%;
+        max-height: 50%;
+        vertical-align: middle;
+      }
+      
+      img:hover {
+        box-shadow: 0 0 5px 5px rgba(255, 255, 255, 5);
+      }
+  }
+  .sponsor:hover {
+    box-shadow: 0 0 5px 5px rgba(255, 255, 255, 5);
+  }
+  
+  .diamond-sponsor {
+    width: 500px;
+    height: 200px;
+    line-height: 190px;
+    border: 5px solid #b9f2ff;    
+  }
+  
+  .platinum-sponsor {
+    width: 450px;
+    height: 200px;
+    line-height: 190px;
+    border: 5px solid #e5e4e2;
+  }
+  
+  .gold-sponsor {
+    width: 375px;
+    height: 150px;
+    line-height: 140px;
+    border: 5px solid gold;
+  }
+  
+  .training-sponsor {
+    width: 375px;
+    height: 150px;
+    line-height: 140px;
+    border: 5px solid purple;
+  }
+  
+  .silver-sponsor {
+    width: 280px;
+    height: 112px;
+    line-height: 104px;
+    border: 4px solid silver;
+  }
+  
+  .community-sponsor {
+    width: 180px;
+    height: 80px;
+    line-height: 74px;  
+    border: 3px solid black;
+  }
+  
+  .alacarte-sponsor {
+    width: 180px;
+    height: 136px;
+    text-align: center;
+    padding-top: 6px; 
+    border: 3px solid black;
+    
+    span {
+      font-size: 1.5em; 
+      font-family: sans-serif; 
+      line-height: 1.3; 
+      color: black;
+      vertical-align: middle;
+    }
+    
+    hr {
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+    
+    a {
+      line-height: 70px;
+      
+    }
+    
+    img {
+      max-height: 80px;
+      border: 2px solid black;
+      margin-top: 3px;
+      margin-bottom: 3px;
+    }
+    
+    img {
+      border: 2px solid black;
+    }
+    
+  }
