@@ -14,4 +14,4 @@ output:
 
 | Name | Date | Location | Attendance |
 | ---- | ---- | -------- | ---------- |
-| **[Event-1](https://appsecil.org/](https://owasp.org/www-chapter-kathmandu)**   | Jun 27-28, 2022 | **Kathmandu** | **nearly 20 attendees\!** |
+| **[Event-1](https://owasp.org/www-chapter-kathmandu)**   | 2022 | **Kathmandu** | **20 attendees** |
