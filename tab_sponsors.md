@@ -8,7 +8,7 @@ tags: Kathmandu
 
 ## Sponsors
 
-Sponsors us as a contibution to open source
+Sponsor us as a contibution to open source
 community.<br>
 
 Contact us at:<br>
