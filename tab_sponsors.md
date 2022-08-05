@@ -8,4 +8,5 @@ tags: Kathmandu
 
 ## Sponsors
 
-Wants to sponsors us as a contibution to open source community ? Contact us at: 
+Wants to sponsors us as a contibution to open source community ?<br>
+Contact us at: <li>kailash[.]bohara@owasp.org<li>smaran[.]chand@owasp.org
