@@ -13,4 +13,4 @@ Map: https://goo.gl/maps/wDBrRy7EyzzKacVa6
 ### Resources
 
 * [Downloads](#)
-* [Etcetra](#)
+* [Etcetera](#)
