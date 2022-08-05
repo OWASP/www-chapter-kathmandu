@@ -10,8 +10,8 @@ meetup-group:
 
 ---
 
-## Welcome
-Welcome to **OWASP Kathmandu** group to all peoples from beautiful country Nepal. **OWASP Kathmandu** chapter is group of enthusiasts who are actively working in information security domain to help in improving application security knowledge among them. Building strong community interaction through various events and helping each other to represent Nepali infosec community in global space. 
+## Greetings
+Namaste and welcome to the **OWASP Kathmandu** group from the beautiful country Nepal. **OWASP Kathmandu** local chapter is a group of aspirants and enthusiasts in the Information Security domain to help improve application security, build a robust community, interact through various events and meetups, and represent the Nepalese infosec community globally.
 
 ## Participation
 Everyone is welcome and encouraged to participate in [Local Chapters](/chapters),  [Events](/events/), Online Groups and [Community Page](https://www.facebook.com/OWASP-Kathmandu-108234568644007)
