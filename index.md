@@ -6,7 +6,7 @@ tags: OWASP Kathmandu
 level: 0
 region: Asia
 country: Nepal
-meetup-group:
+meetup-group: owasp-kathmandu-chapter
 
 ---
 
