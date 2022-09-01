@@ -9,7 +9,7 @@ country: Nepal
 meetup-group: owasp-kathmandu-chapter
 
 ---
-
+![owasp kathmandu](./assets/images/owasp-kathmandu.png)
 ## Greetings
 Namaste and welcome to the **OWASP Kathmandu** group from the beautiful country Nepal.<br>
 OWASP Kathmandu local chapter is a community of aspirants and enthusiasts in the Information Security domain to help improve application security, build a robust community, interact through various events and meetups, and represent the Nepalese infosec community globally.
