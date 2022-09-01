@@ -6,7 +6,7 @@ order: 1
 tags: Kathmandu
 ---
 
-## Sponsors
+## Local Chapter Sponsors
 
 ### [Eminence Ways](https://eminenceways.com)
 ### [Trilokya Technology](https://trilokyatech.com/)
