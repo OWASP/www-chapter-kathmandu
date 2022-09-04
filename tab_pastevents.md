@@ -14,4 +14,4 @@ output:
 
 | Name | Date | Location | Attendance |
 | ---- | ---- | -------- | ---------- |
-| **[Event-1](https://owasp.org/www-chapter-kathmandu)**   | 2022 | **Kathmandu** | **20 attendees** |
+| **[First Meetup](https://owasp.org/www-chapter-kathmandu)**   | 2022 | **Setopool,Kathmandu** | **46 attendees** |
