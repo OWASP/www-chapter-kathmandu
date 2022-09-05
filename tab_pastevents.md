@@ -14,4 +14,4 @@ output:
 
 | Name | Date | Venue | Attendance |
 | ---- | ---- | -------- | ---------- |
-| [**Meetup-0x01**](https://www.facebook.com/owasp.kathmandu/photos/pcb.121095887357875/121092737358190/)  | **Sept-3-2022** | **Setopool,Kathmandu** | **46 attendees** |                    Speakers         |
+| [**Meetup-0x01**](https://www.facebook.com/owasp.kathmandu/photos/pcb.121095887357875/121092737358190/)  | **Sept-3-2022** | **Setopool,Kathmandu** | **46 attendees** ||          **Speakers**         ||
