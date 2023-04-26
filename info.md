@@ -7,7 +7,7 @@ Altitude: 1400m above sea level<br>
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-kathmandu-chapter/)
 * [Facebook Page](https://www.facebook.com/owasp.kathmandu/)
-* [Twitter Handle](#)
+* [Twitter Handle](https://twitter.com/owasp_kathmandu)
 
 ### Resources
 * [Downloads](#)
