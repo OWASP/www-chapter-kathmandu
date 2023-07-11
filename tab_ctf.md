@@ -4,7 +4,7 @@ displaytext: CTF Solves
 layout: col-sidebar
 tab: true
 order: 3
-tags: kathmandu
+tags: Kathmandu
 output:
   html_document:
     css: /assets/style.css
