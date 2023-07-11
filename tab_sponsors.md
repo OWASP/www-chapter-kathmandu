@@ -8,7 +8,7 @@ tags: Kathmandu
 
 ## Local Chapter Sponsors
 
-### [Eminence Ways](https://eminenceways.com) | ### [Trilokya Technology](https://trilokyatech.com/) | ### [Prominent Learners](https://prominentlearners.com/)
+### [Eminence Ways](https://eminenceways.com) | [Trilokya Technology](https://trilokyatech.com/) | [Prominent Learners](https://prominentlearners.com/)
 ### [Softwarica College](https://softwarica.edu.np/)
 ### [SecurityPal](https://www.securitypalhq.com/)
 ### [TechKraft Inc.](https://techkraftinc.com/)
