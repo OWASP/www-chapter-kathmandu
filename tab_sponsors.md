@@ -13,7 +13,7 @@ tags: Kathmandu
 ### [SecurityPal](https://www.securitypalhq.com/)
 ### [TechKraft Inc.](https://techkraftinc.com/)
 
-We are extremely grateful for the support of our sponsors for the OWASP Kathmandu Local Chapter meetup. We would like to thank Eminence Ways, a pioneer and finest cybersecurity firm in Nepal, for providing more than support to make this event successful. We are very grateful to Trilokya Technology, a software development company focused on developing security products, and Prominent Learners, an organization dedicated to providing cybersecurity training and certification to ensure the best cybersecurity practices and hygiene. Without their help, we would not have been able to host the event. It is a pleasure to have their support and we thank them for supporting us.
+We are extremely grateful for the support of our sponsors for the OWASP Kathmandu Local Chapter meetup. We would like to thank Eminence Ways, a pioneer and finest cybersecurity firm in Nepal, for providing more than support to make this event successful. Additionally, we are grateful to Softwarica College, SecurityPal SOCC, and TechKraft Inc. Without their help, we would not have been able to host the event. It is a pleasure to have their support and we thank them for supporting us.
 
 ### Community Partners
 
