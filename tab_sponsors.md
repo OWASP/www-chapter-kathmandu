@@ -11,7 +11,7 @@ tags: Kathmandu
 <!--### [Eminence Ways](https://eminenceways.com) | [Trilokya Technology](https://trilokyatech.com/) | [Prominent Learners](https://prominentlearners.com/)
 ### [Softwarica College](https://softwarica.edu.np/)
 ### [SecurityPal](https://www.securitypalhq.com/)
-### [TechKraft Inc.](https://techkraftinc.com/) -->
+### [TechKraft Inc.](https://techkraftinc.com/) Test-->
 
 
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/eminence-ways.png" width="300" alt="Eminence Ways">](https://eminenceways.com)
