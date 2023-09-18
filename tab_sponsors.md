@@ -8,10 +8,16 @@ tags: Kathmandu
 
 ## Local Chapter Sponsors
 
-### [Eminence Ways](https://eminenceways.com) | [Trilokya Technology](https://trilokyatech.com/) | [Prominent Learners](https://prominentlearners.com/)
+<!--### [Eminence Ways](https://eminenceways.com) | [Trilokya Technology](https://trilokyatech.com/) | [Prominent Learners](https://prominentlearners.com/)
 ### [Softwarica College](https://softwarica.edu.np/)
 ### [SecurityPal](https://www.securitypalhq.com/)
-### [TechKraft Inc.](https://techkraftinc.com/)
+### [TechKraft Inc.](https://techkraftinc.com/) -->
+
+
+[![Eminence Ways](https://ictframe.com/wp-content/uploads/eminence-ways.png)](https://www.eminenceways.com)
+[![Softwarica College](https://softwarica.edu.np/file-manager/photos/1/Logo-White.svg)](https://softwarica.edu.np/)
+[![SecurityPal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPTc_VYBnMP5IOnqXVOMH2S7It0GK70oGRcJU0xuFTw&s)](https://www.securitypalhq.com/)
+[![TechKraft](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSREDaxmTmIBRJ8R95XflJZvPLLNz3tswo0QnSH3kQDT9aaooMkDDz48hmGzAXD_WZug&usqp=CAU)](https://techkraftinc.com/)
 
 We are extremely grateful for the support of our sponsors for the OWASP Kathmandu Local Chapter meetup. We would like to thank Eminence Ways, a pioneer and finest cybersecurity firm in Nepal, for providing more than support to make this event successful. Additionally, we are grateful to Softwarica College, SecurityPal SOCC, and TechKraft Inc. Without their help, we would not have been able to host the event. It is a pleasure to have their support and we thank them for supporting us.
 
