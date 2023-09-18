@@ -17,7 +17,7 @@ tags: Kathmandu
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/eminence-ways.png" width="300" alt="Eminence Ways">](https://eminenceways.com)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/softwarica.png" width="300" alt="Softwarica">](https://softwarica.edu.np/)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/securitypal.png" width="300" alt="SecurityPal">](https://securitypalhq.com/)
-[<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/Techkraft.png" width="300" alt="TechKraft">](https://securitypalhq.com/)
+[<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/Techkraft.png" width="300" alt="TechKraft">](https://techkraftinc.com/)
 
 We are extremely grateful for the support of our sponsors for the OWASP Kathmandu Local Chapter meetup. We would like to thank Eminence Ways, a pioneer and finest cybersecurity firm in Nepal, for providing more than support to make this event successful. Additionally, we are grateful to Softwarica College, SecurityPal SOCC, and TechKraft Inc. Without their help, we would not have been able to host the event. It is a pleasure to have their support and we thank them for supporting us.
 
