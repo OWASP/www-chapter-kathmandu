@@ -19,12 +19,19 @@ tags: Kathmandu
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/securitypal.png" width="300" alt="SecurityPal">](https://securitypalhq.com/)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/Techkraft.png" width="300" alt="TechKraft">](https://techkraftinc.com/)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/cedargate.png" width="300" alt="Cedargate Technologies">](https://cedargate.com/)
+[<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/vtech%20(1).png" width="300" alt="Vairav Technology">](https://vairav.net/)
 
-We are extremely grateful for the support of our sponsors for the OWASP Kathmandu Local Chapter meetup. We would like to thank Eminence Ways, a pioneer and finest cybersecurity firm in Nepal, for providing more than support to make this event successful. Additionally, we are grateful to Softwarica College, SecurityPal SOCC, and TechKraft Inc. Without their help, we would not have been able to host the event. It is a pleasure to have their support and we thank them for supporting us.
+We are extremely grateful for the support of our sponsors for the OWASP Kathmandu Local Chapter meetup. We thank Eminence Ways, a pioneer and finest cybersecurity firm in Nepal, for providing more than support to make this event successful. Additionally, we are grateful to Softwarica College, SecurityPal SOCC, TechKraft Inc, Cedar Gate Technologies and Vairav Technology. Without their help, we would not have been able to host the event. It is a pleasure to have their support and we thank them for supporting us.
 
 ### Community Partners
 
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/THREAT%20CON.png" width="300" alt="THREAT CON">](https://threatcon.io)
+
+### Capture The Flag (CTF) Sponsors
+
+[<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/burp-bounty.png" width="300" alt="Burp Bounty">](#)
+[<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/Silent%20Push%20Logo%20Full%20Color.png" width="300" alt="Silent Push">](https://www.silentpush.com/)
+[<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/wappalyzer.png" width="300" alt="Wappalyzer">](https://www.wappalyzer.com/)
 
 ### Acknowledgements:
 1. Yogesh Ojha(@arthabihin) from [Citrana Creatives](https://citranacreatives.com/) for logo and sticker design.
