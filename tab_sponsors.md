@@ -32,6 +32,8 @@ We are extremely grateful for the support of our sponsors for the OWASP Kathmand
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/burp-bounty.png" width="300" alt="Burp Bounty">](#)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/Silent%20Push%20Logo%20Full%20Color.png" width="300" alt="Silent Push">](https://www.silentpush.com/)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/wappalyzer.png" width="300" alt="Wappalyzer">](https://www.wappalyzer.com/)
+[<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/refs/heads/main/assets/images/cyberwarfare.png" width="300" alt="cyberwarfare">](https://cyberwarfare.live/)
+
 
 ### Acknowledgements:
 1. Yogesh Ojha(@arthabihin) from [Citrana Creatives](https://citranacreatives.com/) for logo and sticker design.
