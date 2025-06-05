@@ -12,7 +12,7 @@ output:
 
 ## CTF Winners and Writeups
 
-| Name | Solvers                          | Writeup Link                                                                                                                       |
+| Name | Winners                          | Writeup Link                                                                                                                       |
 | ---- |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | [**Meetup-0x01**](https://www.facebook.com/owasp.kathmandu/photos/pcb.121095887357875/121092737358190/) | Mahesh Regmi, Bishal Shrestha    | [Solution](https://smaranchand.com.np/2022/10/owasp-kathmandu-hidden-badge-ctf/)                                                                                                                       |
 [**Meetup-0x02**](https://www.facebook.com/owasp.kathmandu/photos/pcb.121095887357875/121092737358190/) | Veshraj Ghimire, Srijan Adhikari | [Solution](https://veshraj.medium.com/heres-how-we-exploited-the-github-workflow-a-walkthrough-of-owasp-kathmandu-ctf-6e3063a0c8f) | 
