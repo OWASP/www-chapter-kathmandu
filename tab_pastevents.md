@@ -20,6 +20,7 @@ output:
 [**Meetup-0x04**](https://www.facebook.com/photo?fbid=689285406529576&set=pcb.689285796529537) | **08 Jul, 2023** | **TechKraft Inc.** | **135** | [Samip Pokharel](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup-0x04/The-Art-of-evasion-and-detection.pptx), Punit Jajodia, [Saugat Pokharel](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup-0x04/OWASP%20Presentation.pdf), Sweeti Chauhan, [Arbind Shakya](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup-0x04/Arbind_Docker_Top_10.pptx)|
 [**Meetup-0x05**](https://www.facebook.com/photo?fbid=689285406529576&set=pcb.689285796529537) | **07 Oct, 2023** | **Cedar Gate Services Nepal** | **127** | [Suraj Ghimire](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/OWASP%20Top%2010_Soft_Security_2023_10_07%20(1).pptx), [Prason Pandey](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/API%20-%20OWASP%20(1).pptx), [Sushil Phuyal](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup%20-%200x05/owaspktm.pdf), [Nirmal Dahal](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup%20-%200x05/Introduction%20to%20Hardware%20Hacking.pdf), [Sahil Ojha](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/Azure%20Security-%20Divign%20into%20azure%20service%20vulnerabilities.pptx)|
 [**Meetup-0x06**](https://www.facebook.com/photo?fbid=689285406529576&set=pcb.689285796529537) | **01 Jun, 2024** | **Vairav Tech** | **263** | [Amrit Aryal](#), [Jeewan Bhatta](#), [Sushil Phuyal](#), [Sangay Lama/Subekshya Pradhan,Veshraj Ghimire](#) |
+[**Meetup-0x07**](https://www.facebook.com/photo?fbid=689285406529576&set=pcb.689285796529537) | **26 April, 2025** | **SecurityPal** | **221** | [Bishal Shrestha/Nirmal Thapa](#), [Atul Gautam](#), [Santosh Kumar Neupane](#), [Shreenkhala Bhattarai](#), [Gaurab Silwal](#), [Samir Gautam/Drabid Subedi](#) |
 
 ## Talk Titles
 ### 0x01
@@ -39,7 +40,7 @@ output:
 7. Security in AI & ML
 
 ### 0x03
-1. AppSec and Defense Simplified
+1. AppSec and Defence Simplified
 2. Haylxon Tool
 3. GRC Information Security Management
 4. Handling Sensitive Data in the Service Industry
@@ -51,21 +52,29 @@ output:
 1. The Art of Evasion and Detection
 2. How to sell cybersecurity to finance
 3. Abusing device login flow to steal access tokens of Facebook Users
-4. Password Power: Strengthening Organizational Security
+4. Password Power: Strengthening Organisational Security
 5. Container Security Unveiled: Understanding and Tackling OWASP Docker Top 10
 
 ### 0x05
 1. Soft Security: GRC
 2. Vulnerable APIs: When dumbness turns dangerous
-3. Bypassing Facebook preview system
+3. Bypassing the Facebook preview system
 4. Introduction to hardware hacking, where to begin
 5. Diving into Azure Service vulnerabilities
 
 ### 0x06
 1. LLM Hacking With Prompt Injection
-2. Pentesting Jenkins: Securing your CI/CD Pipelines
+2. Pentesting Jenkins: Securing Your CI/CD Pipelines
 3. Pioneering Security Testing and Validations
 4. Operation: Red Rose
+
+### 0x07
+1. Breaching the perimeter: Our Most Impactful Bug Bounty Findings
+2. Exploiting Holes with No Leaks
+3. Data Breach Aftermath: Policies that Failed to Protect
+4. From Packet to Proof: Reconstructing a SIP Call for Digital Evidence
+5. From Container to Control
+6. AI and Its Effect on Security and Society
 
 
 
