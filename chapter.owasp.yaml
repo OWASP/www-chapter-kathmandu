@@ -1,0 +1,25 @@
+leaders:
+  - name: Smaran Chand
+    email: smaran.chand@owasp.org
+    github: smaranchand
+  - name: Kailash Bohara
+    email: kailash.bohara@owasp.org
+    github: corrupted-brain
+location:
+  country: Nepal
+  country_code: NP
+  region: Bagmati Province
+  city: Kathmandu
+  latitude: 27.708317
+  longitude: 85.3205817
+meetup_group: owasp-kathmandu-chapter
+name: OWASP Kathmandu
+repositories:
+  - name: www-chapter-kathmandu
+    url: https://github.com/OWASP/www-chapter-kathmandu
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - Kathmandu
+  - custom-tag-1
+website: https://owasp.org/www-chapter-kathmandu
