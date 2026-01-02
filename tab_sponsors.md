@@ -16,7 +16,7 @@ tags: Kathmandu
 
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/eminence-ways.png" width="300" alt="Eminence Ways">](https://eminenceways.com)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/softwarica.png" width="300" alt="Softwarica">](https://softwarica.edu.np/)
-[<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/securitypal.png" width="300" alt="SecurityPal">](https://securitypalhq.com/)
+[<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/securitypal.jpg" width="300" alt="SecurityPal">](https://securitypalhq.com/)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/Techkraft.png" width="300" alt="TechKraft">](https://techkraftinc.com/)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/cedargate.png" width="300" alt="Cedargate Technologies">](https://cedargate.com/)
 [<img src="https://raw.githubusercontent.com/OWASP/www-chapter-kathmandu/main/assets/images/vtech%20(1).png" width="300" alt="Vairav Technology">](https://vairav.net/)
