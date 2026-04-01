@@ -1,4 +1,4 @@
----
+<img width="1542" height="2048" alt="image" src="https://github.com/user-attachments/assets/19d4847a-1b8d-4617-b40f-882c7fd77df6" /><img width="1542" height="2048" alt="image" src="https://github.com/user-attachments/assets/f5a9c2b0-57ed-4343-832b-6ef00528c697" />---
 title: pastevents
 displaytext: Past Events
 layout: col-sidebar
@@ -21,6 +21,7 @@ output:
 [**Meetup-0x05**](https://www.facebook.com/photo?fbid=689285406529576&set=pcb.689285796529537) | **07 Oct, 2023** | **Cedar Gate Services Nepal** | **127** | [Suraj Ghimire](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/OWASP%20Top%2010_Soft_Security_2023_10_07%20(1).pptx), [Prason Pandey](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/API%20-%20OWASP%20(1).pptx), [Sushil Phuyal](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup%20-%200x05/owaspktm.pdf), [Nirmal Dahal](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup%20-%200x05/Introduction%20to%20Hardware%20Hacking.pdf), [Sahil Ojha](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/Azure%20Security-%20Divign%20into%20azure%20service%20vulnerabilities.pptx)|
 [**Meetup-0x06**](https://www.facebook.com/photo?fbid=689285406529576&set=pcb.689285796529537) | **01 Jun, 2024** | **Vairav Tech** | **263** | [Amrit Aryal](#), [Jeewan Bhatta](#), [Sushil Phuyal](#), [Sangay Lama/Subekshya Pradhan,Veshraj Ghimire](#) |
 [**Meetup-0x07**](https://media.licdn.com/dms/image/v2/D5622AQGGuYqcbyYloQ/feedshare-shrink_2048_1536/B56ZaM7ukRHAAo-/0/1746121252153?e=1752105600&v=beta&t=jKmMz_n8ivFz675Tnq6yXXm6w1WiSm6SyVrOyEuPBRQ) | **26 April, 2025** | **SecurityPal** | **221** | [Bishal Shrestha/Nirmal Thapa](), [Atul Gautam](), [Santosh Kumar Neupane](), [Shreenkhala Bhattarai](), [Gaurab Silwal](), [Samir Gautam/Drabid Subedi]() |
+[**Meetup-0x08**](https://media.licdn.com/dms/image/v2/D5622AQGGuYqcbyYloQ/feedshare-shrink_2048_1536/B56ZaM7ukRHAAo-/0/1746121252153?e=1752105600&v=beta&t=jKmMz_n8ivFz675Tnq6yXXm6w1WiSm6SyVrOyEuPBRQ) | **23 March, 2026** | **Cedar Gate Nepal** | **193** | [Bishal Shrestha/Nirmal Thapa](), [Atul Gautam](), [Santosh Kumar Neupane](), [Shreenkhala Bhattarai](), [Gaurab Silwal](), [Samir Gautam/Drabid Subedi]() |
 
 ## Talk Titles
 ### 0x01
@@ -75,6 +76,17 @@ output:
 4. From Packet to Proof: Reconstructing a SIP Call for Digital Evidence
 5. From Container to Control
 6. AI and Its Effect on Security and Society
+
+### 0x08
+1. Build. Push. Breach. - How I Compromised Your Prod Infra -	Nirmal Thapa
+2. From Report to Resolution: How Documentation Shapes Security Decisions - Dikshya Shrestha
+3. Anatomy of Our Most Impactful Security Vulnerabilities - Anish Bhattarai/Bisahl Ray"
+4. Focusing on What Truly Matters in Cybersecurity - Kritika Kapali
+5. Breaking the Build: CI/CD Security Exploits and Best Practices - Sajan Dawadi 
+6. A Love Story Written in Facebook Access Tokens -	Manoz Gautam
+7. Behind The Scammers: The Hidden Network - Shankar Acharya
+8. Discover Employee Data Breaches Before They Happen	- Saugat Pokharel
+
 
 
 
