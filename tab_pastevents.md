@@ -1,4 +1,4 @@
-<img width="1542" height="2048" alt="image" src="https://github.com/user-attachments/assets/19d4847a-1b8d-4617-b40f-882c7fd77df6" /><img width="1542" height="2048" alt="image" src="https://github.com/user-attachments/assets/f5a9c2b0-57ed-4343-832b-6ef00528c697" />---
+---
 title: pastevents
 displaytext: Past Events
 layout: col-sidebar
