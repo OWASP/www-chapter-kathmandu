@@ -21,7 +21,8 @@ output:
 [**Meetup-0x05**](https://www.facebook.com/photo?fbid=689285406529576&set=pcb.689285796529537) | **07 Oct, 2023** | **Cedar Gate Services Nepal** | **127** | [Suraj Ghimire](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/OWASP%20Top%2010_Soft_Security_2023_10_07%20(1).pptx), [Prason Pandey](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/API%20-%20OWASP%20(1).pptx), [Sushil Phuyal](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup%20-%200x05/owaspktm.pdf), [Nirmal Dahal](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup%20-%200x05/Introduction%20to%20Hardware%20Hacking.pdf), [Sahil Ojha](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/Azure%20Security-%20Divign%20into%20azure%20service%20vulnerabilities.pptx)|
 [**Meetup-0x06**](https://www.facebook.com/photo?fbid=689285406529576&set=pcb.689285796529537) | **01 Jun, 2024** | **Vairav Tech** | **263** | [Amrit Aryal](#), [Jeewan Bhatta](#), [Sushil Phuyal](#), [Sangay Lama/Subekshya Pradhan,Veshraj Ghimire](#) |
 [**Meetup-0x07**](https://media.licdn.com/dms/image/v2/D5622AQGGuYqcbyYloQ/feedshare-shrink_2048_1536/B56ZaM7ukRHAAo-/0/1746121252153?e=1752105600&v=beta&t=jKmMz_n8ivFz675Tnq6yXXm6w1WiSm6SyVrOyEuPBRQ) | **26 April, 2025** | **SecurityPal** | **221** | [Bishal Shrestha/Nirmal Thapa](), [Atul Gautam](), [Santosh Kumar Neupane](), [Shreenkhala Bhattarai](), [Gaurab Silwal](), [Samir Gautam/Drabid Subedi]() |
-[**Meetup-0x08**](https://scontent-del3-2.xx.fbcdn.net/v/t39.30808-6/659589387_907119382091019_6995075513591940394_n.jpg?stp=dst-jpegr_tt6&_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=5lRVfsUmaDwQ7kNvwFNVo8I&_nc_oc=AdpduZxfgPDnxEpq9_lc8Xco0_yHI8cpcJAZbbVN7li4XCZVYjZ-VAnz3-hxICLxaMM&_nc_zt=23&se=-1&_nc_ht=scontent-del3-2.xx&_nc_gid=yzLa7KlRByqE73EPWAGH3Q&_nc_ss=7a3a8&oh=00_Af2v4vNLshAMBJVDmoacGAMIsZ2Yqio-577hNXnx8mQK5A&oe=69D32360) | **23 March, 2026** | **Cedar Gate Nepal** | **193** | [Nirmal Thapa](), [Dikshya Shrestha](), [Anish Bhattarai/Bisahl Ray](), [Kritika Kapali](), [Sajan Dawadi](), [Shankar Acharya](), [Saugat Pokharel]() |
+[**Meetup-0x08**](https://scontent-del3-2.xx.fbcdn.net/v/t39.30808-6/659589387_907119382091019_6995075513591940394_n.jpg?stp=dst-jpegr_tt6&_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=5lRVfsUmaDwQ7kNvwFNVo8I&_nc_oc=AdpduZxfgPDnxEpq9_lc8Xco0_yHI8cpcJAZbbVN7li4XCZVYjZ-VAnz3-hxICLxaMM&_nc_zt=23&se=-1&_nc_ht=scontent-del3-2.xx&_nc_gid=yzLa7KlRByqE73EPWAGH3Q&_nc_ss=7a3a8&oh=00_Af2v4vNLshAMBJVDmoacGAMIsZ2Yqio-577hNXnx8mQK5A&oe=69D32360) | **21 March, 2026** | **Cedar Gate Nepal** | **193** | [Nirmal Thapa](), [Dikshya Shrestha](), [Anish Bhattarai/Bisahl Ray](), [Kritika Kapali](), [Sajan Dawadi](), [Shankar Acharya](), [Saugat Pokharel]() |
+[**Breakfast with Hackers - OWASP Kathmandu**]() | **11 April, 2026** | **Utpala Cafe** | **32** | Exciting morning of cybersecurity discussions, networking, and knowledge sharing with the cybersecurity community |
 
 ## Talk Titles
 ### 0x01
@@ -86,6 +87,9 @@ output:
 6. A Love Story Written in Facebook Access Tokens -	Manoz Gautam
 7. Behind The Scammers: The Hidden Network - Shankar Acharya
 8. Discover Employee Data Breaches Before They Happen	- Saugat Pokharel
+
+### 0x09 - Breakfast with Hackers - OWASP Kathmandu
+Open session, Utpala Cafe, Bouddha
 
 
 
