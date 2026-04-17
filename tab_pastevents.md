@@ -22,12 +22,12 @@ output:
 [**Meetup-0x06**](https://www.facebook.com/photo?fbid=689285406529576&set=pcb.689285796529537) | **01 Jun, 2024** | **Vairav Tech** | **263** | [Amrit Aryal](#), [Jeewan Bhatta](#), [Sushil Phuyal](#), [Sangay Lama/Subekshya Pradhan,Veshraj Ghimire](#) |
 [**Meetup-0x07**](https://media.licdn.com/dms/image/v2/D5622AQGGuYqcbyYloQ/feedshare-shrink_2048_1536/B56ZaM7ukRHAAo-/0/1746121252153?e=1752105600&v=beta&t=jKmMz_n8ivFz675Tnq6yXXm6w1WiSm6SyVrOyEuPBRQ) | **26 April, 2025** | **SecurityPal** | **221** | [Bishal Shrestha/Nirmal Thapa](), [Atul Gautam](), [Santosh Kumar Neupane](), [Shreenkhala Bhattarai](), [Gaurab Silwal](), [Samir Gautam/Drabid Subedi]() |
 [**Meetup-0x08**](https://scontent-del3-2.xx.fbcdn.net/v/t39.30808-6/659589387_907119382091019_6995075513591940394_n.jpg?stp=dst-jpegr_tt6&_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=5lRVfsUmaDwQ7kNvwFNVo8I&_nc_oc=AdpduZxfgPDnxEpq9_lc8Xco0_yHI8cpcJAZbbVN7li4XCZVYjZ-VAnz3-hxICLxaMM&_nc_zt=23&se=-1&_nc_ht=scontent-del3-2.xx&_nc_gid=yzLa7KlRByqE73EPWAGH3Q&_nc_ss=7a3a8&oh=00_Af2v4vNLshAMBJVDmoacGAMIsZ2Yqio-577hNXnx8mQK5A&oe=69D32360) | **21 March, 2026** | **Cedar Gate Nepal** | **193** | [Nirmal Thapa](), [Dikshya Shrestha](), [Anish Bhattarai/Bisahl Ray](), [Kritika Kapali](), [Sajan Dawadi](), [Shankar Acharya](), [Saugat Pokharel]() |
-[**Breakfast with Hackers - OWASP Kathmandu**]() | **11 April, 2026** | **Utpala Cafe** | **32** | Exciting morning of cybersecurity discussions, networking, and knowledge sharing with the cybersecurity community |
+[**Breakfast with Hackers - OWASP Kathmandu**]() | **11 April, 2026** | **Utpala Cafe** | **42** | Exciting morning of cybersecurity discussions, networking, and knowledge sharing with the cybersecurity community |
 
 ## Talk Titles
 ### 0x01
-1. Present and future of infosec in Nepal
-2. Tools for Web Security Testing
+1. [Present and future of infosec in Nepal](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup-0x01/Kailash%20Bohara%20-%20Present%20and%20future%20of%20infosec%20in%20Nepal.pdf)
+2. [Tools for Web Security Testing](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup-0x01/Smaran_Chand_ATO_By_Chaining_Multiple_Vulnerabilities.pptx)
 3. Recon like a Pro
 4. Bugcrowd August XSS challenge
 5. ATO by chaining multiple vulnerabilities.
@@ -58,11 +58,11 @@ output:
 5. Container Security Unveiled: Understanding and Tackling OWASP Docker Top 10
 
 ### 0x05
-1. Soft Security: GRC
-2. Vulnerable APIs: When dumbness turns dangerous
-3. Bypassing the Facebook preview system
-4. Introduction to hardware hacking, where to begin
-5. Diving into Azure Service vulnerabilities
+1. [Soft Security: GRC](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/OWASP%20Top%2010_Soft_Security_2023_10_07%20(1).pptx)
+2. [Vulnerable APIs: When dumbness turns dangerous](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/API%20-%20OWASP%20(1).pptx)
+3. [Bypassing the Facebook preview system](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup%20-%200x05/owaspktm.pdf)
+4. [Introduction to hardware hacking, where to begin](https://github.com/OWASP/www-chapter-kathmandu/blob/main/assets/slides/Meetup%20-%200x05/Introduction%20to%20Hardware%20Hacking.pdf)
+5. [Diving into Azure Service vulnerabilities](https://github.com/OWASP/www-chapter-kathmandu/raw/main/assets/slides/Meetup%20-%200x05/Azure%20Security-%20Divign%20into%20azure%20service%20vulnerabilities.pptx)
 
 ### 0x06
 1. LLM Hacking With Prompt Injection
@@ -79,11 +79,11 @@ output:
 6. AI and Its Effect on Security and Society
 
 ### 0x08
-1. Build. Push. Breach. - How I Compromised Your Prod Infra -	Nirmal Thapa
+1. [Build. Push. Breach. - How I Compromised Your Prod Infra -	Nirmal Thapa](https://docs.google.com/presentation/d/1O_tcSH53VsnTicT62PtdCp43GOBg3BzA/edit?usp=drive_link&ouid=114834651498807071533&rtpof=true&sd=true)
 2. From Report to Resolution: How Documentation Shapes Security Decisions - Dikshya Shrestha
 3. Anatomy of Our Most Impactful Security Vulnerabilities - Anish Bhattarai/Bisahl Ray
-4. Focusing on What Truly Matters in Cybersecurity - Kritika Kapali
-5. Breaking the Build: CI/CD Security Exploits and Best Practices - Sajan Dawadi 
+4. [Focusing on What Truly Matters in Cybersecurity - Kritika Kapali](https://docs.google.com/presentation/d/1riDnDpYZuARdUSK52K4XpTMghq1lzH5K/edit?usp=drive_link&ouid=114834651498807071533&rtpof=true&sd=true)
+5. [Breaking the Build: CI/CD Security Exploits and Best Practices - Sajan Dawadi](https://docs.google.com/presentation/d/1JhXXXQF9w3fw4-N6MDQJOcrEdzN2OQ3Q/edit?usp=drive_link&ouid=114834651498807071533&rtpof=true&sd=true)
 6. A Love Story Written in Facebook Access Tokens -	Manoz Gautam
 7. Behind The Scammers: The Hidden Network - Shankar Acharya
 8. Discover Employee Data Breaches Before They Happen	- Saugat Pokharel
