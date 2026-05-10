@@ -79,7 +79,7 @@ output:
 6. AI and Its Effect on Security and Society
 
 ### 0x08
-1. [Build. Push. Breach. - How I Compromised Your Prod Infra -	Nirmal Thapa](https://docs.google.com/presentation/d/1O_tcSH53VsnTicT62PtdCp43GOBg3BzA/edit?usp=drive_link&ouid=114834651498807071533&rtpof=true&sd=true)
+1. [Build. Push. Breach. - How I Compromised Your Prod Infra -	[Nirmal Thapa](https://docs.google.com/presentation/d/1O_tcSH53VsnTicT62PtdCp43GOBg3BzA/edit?usp=drive_link&ouid=114834651498807071533&rtpof=true&sd=true)
 2. From Report to Resolution: How Documentation Shapes Security Decisions - Dikshya Shrestha
 3. Anatomy of Our Most Impactful Security Vulnerabilities - Anish Bhattarai/Bisahl Ray
 4. [Focusing on What Truly Matters in Cybersecurity - Kritika Kapali](https://docs.google.com/presentation/d/1riDnDpYZuARdUSK52K4XpTMghq1lzH5K/edit?usp=drive_link&ouid=114834651498807071533&rtpof=true&sd=true)
@@ -89,7 +89,10 @@ output:
 8. Discover Employee Data Breaches Before They Happen	- Saugat Pokharel
 
 ### 0x09 - Breakfast with Hackers - OWASP Kathmandu
-Open session, Utpala Cafe, Bouddha
+[Open session, Utpala Cafe, Bouddha](https://scontent.fktm19-1.fna.fbcdn.net/v/t39.30808-6/680430169_929945736475050_8868470545362637934_n.jpg?stp=dst-jpegr_tt6&_nc_cat=106&ccb=1-7&_nc_sid=7b2446&_nc_ohc=oRclt1nV68YQ7kNvwG47hzm&_nc_oc=AdpioOVLrzQZpa4tFC6jmjpnhSdj-FMyXG96F8wqKXUbWMh-DfBjA8Qf2DySwNBoZhvYvaig43PfEDbFmZkwLSyo&_nc_zt=23&se=-1&_nc_ht=scontent.fktm19-1.fna&_nc_gid=aQ0_-Rgb5o45QOzHXLTU9w&_nc_ss=7b2a8&oh=00_Af7-jQtz1sJxRUn71FStyJx9jPwVanqsm-qbHSVyZaKM-g&oe=6A05D91D)
+
+### 0x010 - OWASP Foundation 25th Anniversary X OWASP Kathmandu
+[Snacks and open discussion among OWASP Kathmandu past speakers, volunteers, and active members.](https://drive.google.com/file/d/1Ta2-cXNfahg8E5DpvSOfZdy_aqtcStqj/view?usp=sharing)
 
 
 
